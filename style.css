@@ -112,6 +112,8 @@ img {
 
 #footer-ul > div > li {
     margin-left: 100px;
+    list-style: none;
+    text-decoration: none;
 }
 
 #footer-ul > div > li > a{
