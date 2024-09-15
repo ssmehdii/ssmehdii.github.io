@@ -57,6 +57,11 @@ body > header > nav > ul {
     
 }
 
+#main-content {
+    list-style: none;
+    text-decoration: none;
+}
+
 body > main article {
     width: 70%;
     margin: auto;
